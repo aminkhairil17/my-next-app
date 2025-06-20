@@ -5,7 +5,7 @@ import { Footer } from "../components/Footer";
 const heroData = {
   name: "Muhammad Khairil Amin, S.Kom",
   role: "Full Stack Web Developer | UI/UX Enthusiast",
-  avatar: "https://randomuser.me/api/portraits/men/32.jpg", // Gambar online
+  avatar: "https://media.licdn.com/dms/image/v2/D5603AQECJC5TjLPwAA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713083156972?e=2147483647&v=beta&t=gLIr2MHzi_5jpL1vpg5AKy3Pqj7LX7tZ1VS-UGlzELg", // Gambar online
   cta: "Hubungi Saya",
 };
 const aboutData = {
